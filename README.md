@@ -17,8 +17,11 @@ Demo examples for simulation models built with O2DES.Net
 
 ## Demo 8 - Tandem Queue (Modular in Pushing Mode)
 
+## Demo 9 - Constrained Tandem Queue (Modular in Pulling Mode)
+
+## Demo 10 - Constrained Tandem Queue (Modular in Pushing Mode)
+
 ## next to be inlcuded
-- Constrained Tandem queue in both pushing and pulling mode
 - Multiple Queues (xN) in both pushing and pulling mode (unconstrained server, unconstrained queue)
 - Multiple Queues (xN) in both pushing and pulling mode (constrained server, unconstrained queue)
 - Multiple Queues (xN) in both pushing and pulling mode (constrained server, constrained queue)
