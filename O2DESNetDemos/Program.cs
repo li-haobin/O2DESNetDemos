@@ -6,7 +6,7 @@ namespace O2DESNetDemos
     {
         static void Main(string[] args)
         {
-            Demo8.Program.Run();
+            Demo9.Program.Run();
 
             /// next to be inlcuded
             /// 1. Constrained Tandem queue in both pushing and pulling mode
